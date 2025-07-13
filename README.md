@@ -5,14 +5,7 @@ This project implements a simple and effective fire detection system using an Ar
 ## 👥 Authors
 
 - Bhushan Dadaji Ahire
-- Rucha Jayant Chaudhari
 
-Guided by: Prof. Dr. Tushar Patil
-
-G. H. Raisoni College of Engineering and Management, Jalgaon (Maharashtra)  
-Department of Electronics and Telecommunication Engineering
-
----
 
 ## 🔧 Components Required
 
